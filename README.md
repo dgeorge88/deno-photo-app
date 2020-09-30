@@ -1,2 +1,2 @@
 # deno-photo-app
-Deno Photo App with React and Postgres
+Deno version of previously built [PERN](https://github.com/dgeorge88/photo-viewer) application. 
